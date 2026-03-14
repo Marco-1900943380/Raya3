@@ -1,0 +1,19 @@
+{
+  "name": "tresraya-online",
+  "version": "1.0.0",
+  "description": "Juego Tres en Raya Online",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "mongoose": "^8.23.0",
+    "socket.io": "^4.8.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
